@@ -17,4 +17,4 @@ Get ready to experience the world of entertainment like never before. Lights, ca
 # Screenshots
 
 ![Local Image](https://github.com/smritiRGI/netflix-clone/blob/master/images/screenshot_1.JPG) <br>
-![Local Image](https://github.com/smritiRGI/netflix-clone/blob/master/images/screenshot_1.JPG)
+![Local Image](https://github.com/smritiRGI/netflix-clone/blob/master/images/screenshot_2.JPG)
