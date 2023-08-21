@@ -13,3 +13,8 @@ A responsive and interactive Netflix clone built with React and powered by TMDB 
 React, JavaScript, TMDB API, HTML, CSS<br>
 
 Get ready to experience the world of entertainment like never before. Lights, camera, action! 🍿📺
+
+# Screenshots
+
+![Local Image](images/screenshot_1.png) <br>
+![Local Image](images/screenshot_2.png)
