@@ -17,4 +17,4 @@ Get ready to experience the world of entertainment like never before. Lights, ca
 # Screenshots
 
 ![Local Image](./images/screenshot_1.JPG) <br>
-![Local Image](./images/screenshot_2.png)
+![Local Image](./images/screenshot_2.JPG)
