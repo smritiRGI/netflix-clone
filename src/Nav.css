@@ -1,0 +1,30 @@
+.nav {
+  display: flex;
+  /* all other elements ignore this element */
+  z-index: 1;
+  /* horizontal alignment inside flex container */
+  justify-content: space-between;
+  width: 100%;
+  /* Animations */
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+  /* vertical alignment inside flex container */
+  align-items: center;
+  height: 6vh;
+}
+
+.logo {
+  height: 50%;
+  margin-left: 1em;
+}
+
+.avatar {
+  height: 50%;
+  margin-right: 2em;
+}
+
+.nav_black {
+  background-color: black;
+  position: fixed;
+  top: 0;
+}
